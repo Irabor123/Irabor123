@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Irabor123
 - 👀 I’m interested in ...networking
 - 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...coding ,
+- 💞️ I’m looking to collaborate on ...coding,projects
 - 📫 How to reach me ...Irabor123
 
 <!---
